@@ -4,7 +4,7 @@ from bs4 import BeautifulSoup
 
 desired_artists = ['Imagine Dragons', 'One Republic', 'Bastille', 'Marshmello','Owl City',
                    'Kygo', 'Drake', 'J Cole', 'Hillsong Young & Free',
-                   'ColdPlay', 'Kwesi Arthur', 'Sarkodie', 'Manifest',
+                   'ColdPlay', 'Logic', 'Stormzy', 'Dua Lipa',
                    'Khalid', 'Stormzy', 'Jon Bellion', 'The Chainsmokers']
 
 desired_artists.sort()
